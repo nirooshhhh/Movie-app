@@ -1,45 +1,38 @@
-🎬 MovieVerse
+# 🎬MovieVerse
+
 MovieVerse is a modern movie browsing web app where users can discover popular movies, search for films, and view detailed information including ratings, overview, and trailers.
 
-🚀 Features
-🔍 Search movies in real time
+## Live Demo
 
-🎞️ Browse popular & trending movies
+👉 Live App: https://movie-app-six-pi-15.vercel.app
 
-📄 View movie details (poster, rating, overview, trailer)
+## Features
 
-🎨 Modern UI with hover effects and smooth animations
+Search movies in real time
+Browse popular & trending movies
+View movie details (poster, rating, overview, trailer)
+Modern UI with hover effects and smooth animations
+Fully responsive design
 
-📱 Fully responsive design
+## Built With
 
-🛠️ Built With
 React + Vite
-
-CSS (custom styling)
-
+CSS 
 TMDB API
-
 Vercel (deployment)
 
-⚙️ Environment Variables
+## Environment Variables
+
 Create a .env file in the root and add:
 
 VITE_TMDB_ACCESS_TOKEN=your_tmdb_access_token_here
-⚠️ Never push your real API key to GitHub.
 
-📦 Installation & Setup
+## Installation & Setup
+
 git clone https://github.com/your-username/movie-app.git
 cd movie-app
 npm install
 npm run dev
-🌍 Live Demo
-👉 Live App: https://movie-app-six-pi-15.vercel.app
-
-📸 Screenshots
-Add screenshots here if you want
-
-🙌 Acknowledgements
-TMDB for the movie data
 
 # React + Vite
 
