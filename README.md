@@ -34,8 +34,6 @@ VITE_TMDB_ACCESS_TOKEN=your_tmdb_access_token_here
 
 ## Installation & Setup
 
-git clone https://github.com/your-username/movie-app.git
-
 cd movie-app
 
 npm install
