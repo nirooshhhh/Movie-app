@@ -9,16 +9,21 @@ MovieVerse is a modern movie browsing web app where users can discover popular m
 ## Features
 
 Search movies in real time
+
 Browse popular & trending movies
+
 View movie details (poster, rating, overview, trailer)
+
 Modern UI with hover effects and smooth animations
-Fully responsive design
 
 ## Built With
 
 React + Vite
-CSS 
+
+CSS
+
 TMDB API
+
 Vercel (deployment)
 
 ## Environment Variables
@@ -30,8 +35,11 @@ VITE_TMDB_ACCESS_TOKEN=your_tmdb_access_token_here
 ## Installation & Setup
 
 git clone https://github.com/your-username/movie-app.git
+
 cd movie-app
+
 npm install
+
 npm run dev
 
 # React + Vite
